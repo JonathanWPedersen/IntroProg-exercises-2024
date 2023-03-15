@@ -3,7 +3,6 @@ import ipywidgets as widgets
 from scipy.stats import norm
 import matplotlib.pyplot as plt
 import numpy as np
-%matplotlib inline
 
 # b. plotting figure
 
